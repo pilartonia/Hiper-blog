@@ -4,6 +4,27 @@ body{
     text-align: center;
     font-size: 16px;
 }
+#cabecera{
+    box-shadow: 14px 20px 0px 2px rgba(87,39,184,0.99);
+    margin: auto;
+    padding: 1cm;
+    text-align: left;
+    background-color: #8f67cf;
+    color: white;
+    font-weight: bold;
+    width: 70%;
+}
+
+#cabecera div{
+    display: inline-block;
+}
+
+#tagline{
+    font-weight: normal;
+    font-size: 0.8cm;
+    color: aliceblue;
+    padding: 0 0 0 1em;
+}
 #container{
     text-align: left;
     margin:auto;
@@ -16,3 +37,4 @@ body{
 #container h1{
     font-size: 20px;
 }
+
